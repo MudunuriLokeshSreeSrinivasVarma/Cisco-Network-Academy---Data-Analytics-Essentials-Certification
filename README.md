@@ -81,3 +81,8 @@ The certificate is included in this repository for reference.
 
 ## 🤝 Connect With Me
 Feel free to connect for collaboration, opportunities, or discussions related to Data Analytics.
+
+---
+
+## 🤝 Credits
+Badge Link: https://www.credly.com/badges/ec31934d-b50a-4d46-9bf7-55f5ad7549e1/linked_in_profile
